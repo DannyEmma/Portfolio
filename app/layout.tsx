@@ -6,6 +6,9 @@ import Footer from "@/components/Footer/Footer"
 
 export const metadata: Metadata = {
   title: "Danny Emma",
+  icons: {
+    icon: "/favicon.png",
+  },
 }
 
 const roboto = Roboto({
