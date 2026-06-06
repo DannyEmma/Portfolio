@@ -57,7 +57,7 @@ export const projects: Project[] = [
       "/captures/wingrun/capture-7.png",
     ],
     gitRepoUrl: "https://github.com/DannyEmma/WingRun",
-    siteUrl: "https://wing-run.vercel.app/",
+    siteUrl: "https://wingrun.danny-emma.dev/",
   },
   {
     name: "lixa",
@@ -97,7 +97,7 @@ export const projects: Project[] = [
       "/captures/lixa/capture-5.png",
     ],
     gitRepoUrl: "https://github.com/DannyEmma/LixA",
-    siteUrl: "https://lixa.vercel.app",
+    siteUrl: "https://lixa.danny-emma.dev",
   },
   {
     name: "news",
@@ -135,7 +135,7 @@ export const projects: Project[] = [
       "/captures/news/capture-5.png",
     ],
     gitRepoUrl: "https://github.com/DannyEmma/News",
-    siteUrl: "https://news-one-coral.vercel.app",
+    siteUrl: "https://news.danny-emma.dev",
   },
   {
     name: "todolist",
@@ -170,7 +170,7 @@ export const projects: Project[] = [
       "/captures/todolist/capture-4.png",
     ],
     gitRepoUrl: "https://github.com/DannyEmma/TodoList",
-    siteUrl: "https://todo-list-neon-seven.vercel.app",
+    siteUrl: "https://todolist.danny-emma.dev",
   },
 ]
 

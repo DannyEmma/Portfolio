@@ -6,7 +6,7 @@ export default function Introduction() {
     <div className="flex flex-col items-center gap-10 pt-16 md:flex-row">
       {/* -- Photo --  */}
       <div className="h-44 w-44 rounded-full bg-gradient-to-r from-orange-500 via-red-500 to-purple-500 p-1">
-        <div className="relative h-full w-full overflow-hidden rounded-full">
+        <div className="relative h-full w-full overflow-hidden rounded-full border-4 border-white bg-black">
           <Image className="object-cover" src="/avatar.jpg" fill alt="Avatar" />
         </div>
       </div>
