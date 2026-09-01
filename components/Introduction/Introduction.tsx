@@ -37,7 +37,7 @@ export default function Introduction() {
           </div>
 
           <div className="flex gap-5">
-            <Link href="https://www.linkedin.com/in/danny-emma-015715162/" className="flex items-center gap-1" target="_blank">
+            <Link href="https://www.linkedin.com/in/danny-emma-07782b325/" className="flex items-center gap-1" target="_blank">
               <Image src="/icons/linkedin.png" height={24} width={24} alt="LinkedIn Icon" />
               LinkedIn
             </Link>
